@@ -79,3 +79,9 @@ html {
   border-radius: 6px;
   box-shadow: 0px 5px 5px 0px var(--card-shadow-clr);
 }
+
+.link-repo {
+  background-color: black;
+  color: white;
+  font-weight: 600;
+}
